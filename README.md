@@ -72,7 +72,7 @@ The dataset is taken from the Kaggle website and it has a total of 2,84,807 tran
 
 Since this is an imbalanced dataset, the following metrics are prioritized:
 
-* ROC-AUC Score ⭐
+* ROC-AUC Score 
 * Precision & Recall
 * F1-Score
 * Confusion Matrix
@@ -119,5 +119,5 @@ This project demonstrates how machine learning can be effectively used to detect
 
 ## Author
 
-**Areef Baba**
+**Mani kumar**
 Aspiring Machine Learning Engineer 
